@@ -1,0 +1,10 @@
+a,b = 10,20
+print('Sum: ', a + b)
+print('Substrat: ', a - b)
+print('Multiplication: ', a * b)
+print('Division: ', a / b)
+print('Remainder: ', a % b)
+print(a)
+print(b)
+print (a,b)
+print('Git ok')
